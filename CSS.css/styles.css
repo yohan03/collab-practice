@@ -1,0 +1,25 @@
+/*.container {
+    justify-content: center;
+    align-content: center;
+}*/
+.nav {
+    background-color: beige;
+    height: 50px;
+    justify-content: center;
+    align-content: center;
+}
+.left {
+    background-color: brown;
+    height: 400px;
+}
+.right {
+    background-color: bisque;
+    height: 400px;
+}
+.footer {
+    background-color: grey;
+    height: 100px;
+    justify-content: center;
+    align-content: center;
+    
+}
