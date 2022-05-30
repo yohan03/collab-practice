@@ -1,25 +1,29 @@
 /*.container {
     justify-content: center;
-    align-content: center;
+    align-items: center;
 }*/
 .nav {
     background-color: beige;
     height: 50px;
     justify-content: center;
-    align-content: center;
+    align-items: center;
 }
 .left {
     background-color: brown;
     height: 400px;
+    justify-content: center;
+    align-items: center;
 }
 .right {
     background-color: bisque;
     height: 400px;
+    justify-content: center;
+    align-items: center;
 }
 .footer {
     background-color: grey;
     height: 100px;
     justify-content: center;
-    align-content: center;
+    align-items: center;
     
 }
