@@ -1,7 +1,7 @@
 # collab-practice
 
 
-## Bootstrap grids
+## Bootstrap grids and containers
 
 
 
