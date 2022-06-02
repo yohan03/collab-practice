@@ -20,7 +20,13 @@ footer {
     background-color: rgb(220, 212, 212);
     justify-content: center;
     align-items: center;
-    height: 100px;
-    
+    height: 100px; 
 }
-
+.hero-image {
+    border: solid red; 
+    background-image:;
+}
+.hero-text {
+    text-align: center;
+    padding-top: 50px;
+}
