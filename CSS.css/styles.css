@@ -22,10 +22,15 @@ footer {
     align-items: center;
     height: 100px; 
 }
+
 .hero-image {
-    border: solid red; 
+    border: solid grey; 
     height: 400px;
-    background-image:url('../Images/pexels-muhammad-amdad-hossain.jpg')
+    background-image:url('../Images/pexels-muhammad-amdad-hossain.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+
 }   
 .hero-text {
     text-align: center;
