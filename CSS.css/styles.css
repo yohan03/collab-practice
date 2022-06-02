@@ -24,8 +24,9 @@ footer {
 }
 .hero-image {
     border: solid red; 
-    background-image:;
-}
+    height: 400px;
+    background-image:url('../Images/pexels-muhammad-amdad-hossain.jpg')
+}   
 .hero-text {
     text-align: center;
     padding-top: 50px;
