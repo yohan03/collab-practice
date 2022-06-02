@@ -35,8 +35,9 @@ footer {
 .hero-text {
     text-align: center;
     padding-top: 50px;
-    color: rgb(230, 224, 224) ;
+    color: #F2F2F2;
 }
 .hero-text button {
-    color: rgb(230, 224, 224);
+    color: #2F513F;
+    background-color:#F2F2F2 ;
 }
