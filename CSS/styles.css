@@ -20,7 +20,25 @@ footer {
     background-color: rgb(220, 212, 212);
     justify-content: center;
     align-items: center;
-    height: 100px;
-    
+    height: 100px; 
 }
 
+.hero-image {
+    border: solid grey; 
+    height: 400px;
+    background-image:url('../Images/pexels-muhammad-amdad-hossain.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    background-position: center;
+
+}   
+.hero-text {
+    text-align: center;
+    padding-top: 50px;
+    color: #F2F2F2;
+}
+.hero-text button {
+    color: #2F513F;
+    background-color:#F2F2F2 ;
+}
